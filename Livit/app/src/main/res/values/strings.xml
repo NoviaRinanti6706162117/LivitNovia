@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Livit</string>
+    <string name="title_activity_food_list">FoodListActivity</string>
+    <string name="weekly_target_title">Weekly Target</string>
+</resources>
